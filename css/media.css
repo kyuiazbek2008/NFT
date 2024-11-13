@@ -1,0 +1,133 @@
+@media (max-width: 1041px) {
+  .header {
+    padding-inline: 40px;
+  }
+  .main-0 {
+    padding-inline: 40px;
+    gap: 20px;
+  }
+}
+@media (max-width: 962px) {
+  .main p {
+    max-width: 350px;
+    font-size: 20px;
+  }
+}
+@media (max-width: 842px) {
+  .main h1 {
+    font-size: 40px;
+  }
+  #r1 {
+    max-width: 400px;
+  }
+}
+@media (max-width: 810px) {
+  #r1 {
+    max-width: 350px;
+  }
+  .main-0 {
+    align-items: center;
+  }
+}
+@media (max-width: 760px) {
+  .main h1 {
+    font-size: 35px;
+  }
+  .main p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 724px) {
+  .main h1 {
+    font-size: 30px;
+    max-width: 250px;
+  }
+  #r1 {
+    max-width: 300px;
+  }
+}
+@media (max-width: 670px) {
+  .main-5 h6 {
+    font-size: 16px;
+  }
+  .main-5 span {
+    font-size: 16px;
+  }
+}
+@media (max-width:662px) {
+    .main h1 {
+        font-size: 25px;
+        max-width: 200px;
+      }
+      .main p{
+        font-size: 14px;
+        max-width: 270px;
+      }
+      #r1{
+        max-width: 250px;
+      }
+}
+@media (max-width:590px) {
+    .main h1 {
+        font-size: 20px;
+        max-width: 170px;
+      }
+      .main p{
+        font-size: 12px;
+        max-width: 270px;
+      }
+      #r1{
+        max-width: 200px;
+      } 
+      .main-2 h2{
+        font-size: 14px;
+      }
+      .main-2 h3{
+        font-size: 14px ;
+      }
+      .main-2 img{
+        max-width: 20px;
+      }
+      .main-5 h6 {
+        font-size: 13px;
+      }
+      .main-5 span {
+        font-size: 13px;
+      }
+    
+}
+@media (max-width:502px) {
+    .main-5 h6 {
+        font-size: 11px;
+      }
+      .main-5 span {
+        font-size: 11px;
+      }
+      .main button{
+        padding: 10px 20px;
+        font-size: 11px;
+      }
+}
+@media (max-width: 631px) {
+  .header-1 a {
+    font-size: 12px;
+  }
+  .header-1 button {
+    font-size: 12px;
+    gap: 10px;
+    padding: 10px 20px;
+  }
+}
+@media (max-width: 600px) {
+  .header-1 a {
+    display: none;
+  }
+  .header-1 button {
+    display: none;
+  }
+  .burger-menu ion-icon {
+    display: flex;
+    top: -10px;
+    font-size: 18px;
+  }
+}
